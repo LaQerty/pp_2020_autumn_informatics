@@ -1,5 +1,5 @@
 // Copyright 2020 Luckyanchencko Ivan
-#include"../../../modules/task_1/luckyanchencko_i_integral_rectangle/integral.h"
+#include"../luckyanchencko_i_integral_rectangle/integral.h"
 #include <mpi.h>
 #include <vector>
 #include <random>

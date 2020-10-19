@@ -3,7 +3,7 @@
 #include <gtest/gtest.h>
 #include<mpi.h>
 #include<cmath>
-#include "../../../modules/task_1/luckyanchencko_i_integral_rectangle/integral.h"
+#include "./integral.h"
 
 TEST(Paral, Test_func1_1) {
     int ProcRank;
